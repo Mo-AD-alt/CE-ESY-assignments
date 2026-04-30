@@ -43,6 +43,3 @@ You can compile and run the program using any C compiler:
 gcc prog.c -o prog
 ./prog
 ```
-
-
-لإاا
